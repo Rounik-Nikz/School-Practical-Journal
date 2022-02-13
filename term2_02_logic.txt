@@ -1,0 +1,14 @@
+Suppose their are 5 elements at index 0,1,2,3,4  
+Index 0 to be swapped with index 1
+Index 2 to be swapped with index 3
+and Index 4 remains the same
+
+Final index after running the code would be 1,0,3,2,4
+
+
+For eg -
+A list of element    : [ 10,20,30,40,50 ]
+Initial Index        : [  0, 1, 2, 3, 4 ]
+
+Output should be     : [ 20,10,40,30,50 ]
+Final Index          : [  1, 0, 3, 2, 4 ]
